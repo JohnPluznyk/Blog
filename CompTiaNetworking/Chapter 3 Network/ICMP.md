@@ -1,0 +1,14 @@
+## ICMP (Internet Control Message Protocol) - Network Layer Protocol - Layer 3 (L3)
+- Connectionless protocol
+	- Network messaging
+		- Destination unreachable
+		- redirect
+		- Time exceeded - TTL - Time To Live
+	- Network Diagnostics
+		- Ping
+			- Echo request
+			- Echo reply
+		- Traceroute
+- ICMP is its own protocol
+	- only relies on layers 3,2,1
+	- Does not rely on upper layers of OSI model
